@@ -6,7 +6,7 @@ The tech used: Flutter widgets + Flutter Bloc / Cubit + Rest Api
 
 Check the screenshot :
 
-![alt text](https://i.ibb.co/KrHvxRP/Screenshot-2021-11-02-11-44-25.png)
+![pic](https://i.postimg.cc/sfpjKp71/Screenshot-2021-11-02-11-44-25.png)
 
 ## P.S
 
